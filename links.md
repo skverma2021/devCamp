@@ -53,6 +53,8 @@
 - Routing - https://expressjs.com/en/guide/routing.html
 - Error Handling - https://expressjs.com/en/guide/error-handling.html
 - Static Files - https://expressjs.com/en/starter/static-files.html
+- async/await - middleware article - https://www.acuriousanimal.com/blog/20180315/express-async-middleware
+- callBack, Promise and Async/Await - https://www.freecodecamp.org/news/async-await-in-javascript/
 
 ## Mongoose Docs
 
@@ -64,4 +66,3 @@
 - Relationships & Populate - https://mongoosejs.com/docs/populate.html
 - Virtuals - https://mongoosejs.com/docs/guide.html#virtuals
 - Statics - https://mongoosejs.com/docs/guide.html#statics
-
